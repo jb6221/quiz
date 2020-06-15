@@ -1,0 +1,4 @@
+id	type	question	answer	correctFeedback	incorrectFeedback	tryAgainFeedback	tooHighFeedback	tooLowFeedback	maxAttempts
+0	HighLow	How many hundreds of tons of sulfur dioxide would your firm produce?	5	Correct!	The answer should be 5. Take a closer look at your profit structure.		Are you sure? that looks like too much. Let’s check again.	Are you sure? that looks like too little. Let’s check again.	2
+1	Basic	Are you sure? that looks like too little. Let’s check again.	10	Correct!	Are you sure? that looks like too little. Let’s check again.				1
+2	Basic	Are you sure? that looks like too little. Let’s check again.	5	Correct!	You should wish to purchase Y permits. Look at your firm’s profits and emissions to see why this is so.	Are you sure? that looks like too little. Let’s check again.			2
